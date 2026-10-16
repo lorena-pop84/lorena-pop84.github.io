@@ -15,7 +15,7 @@ Three static models I built in Abaqus/CAE 6.14. Below, for each one: what I mode
 
 **Results.** Max von Mises stress 3.3 MPa near the axle; max displacement 3.6 mm at the handle. Compared with bulk PETG strength (45-55 MPa) this gives an indicative safety factor of about 14-17. A printed part is weaker than bulk material, so I treat this only as a rough indication.
 
-**Limits.** The axle and its hole are simplified to rectangles and tied together. The real part has gyroid infill, while the model is solid. One mesh only, no mesh convergence study, no physical measurements.
+**Limits.** The axle and its hole are simplified to rectangles and tied together. One mesh only, no mesh convergence study. The real part has gyroid infill, while the model is solid. I 3D-printed the device and only checked by hand that the lever moves and the pivot slides; there were no force measurements, and it was not tested with a spring.
 
 ---
 
