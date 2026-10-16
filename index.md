@@ -56,4 +56,4 @@ Three static models I built in Abaqus/CAE 6.14. Below, for each one: what I mode
 ---
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/pop-lorena) · [GitHub](https://github.com/lorena-pop84) · lorena.pop84@gmail.com
+[LinkedIn](https://www.linkedin.com/in/pop-lorena) · lorena.pop84@gmail.com
