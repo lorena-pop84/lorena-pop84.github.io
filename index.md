@@ -1,5 +1,4 @@
-# Lorena Pop
-### Finite element analysis projects in Abaqus
+## Finite element analysis projects in Abaqus
 
 Three static models I built in Abaqus/CAE 6.14. Below, for each one: what I modelled, how the model is set up, what came out, and what the model does not cover. The full setup files and READMEs are in the repositories.
 
